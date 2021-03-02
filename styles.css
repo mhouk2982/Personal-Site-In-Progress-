@@ -156,3 +156,17 @@ A:active {text-decoration: none; color: #11999E;}
   width: 40%;
   margin: 40px auto 40px;
 }
+@media (max-width: 1300px){
+
+  .top-cloud{
+    position: absolute;
+    left: 770px;
+    top: 40px;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+  }
+
+}
